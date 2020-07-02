@@ -5,4 +5,4 @@ Remotes:
 - upstream: Repositorio original
 
 Ramas:
-- master: código final.
+- master: códigos finales.
